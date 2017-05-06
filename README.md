@@ -2,4 +2,4 @@
 
 Website portfolio for school-related projects.
 
-Check it out [here](http://www.brlou-apcs.github.io).
+Check it out [here](https://brlou-apcs.github.io/).
